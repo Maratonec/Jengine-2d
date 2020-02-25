@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="800" height="800" src="/images/logo.png">
+  <img width="400" height="400" src="/images/logo.png">
 </p>
 
 # Jengine-2d
