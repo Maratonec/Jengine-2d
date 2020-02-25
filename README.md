@@ -1,4 +1,6 @@
-<div style="text-align:center"><img src="/images/logo.png" /></div>
+<p align="center">
+  <img width="400" height="400" src="/images/logo.png">
+</p>
 
 # Jengine-2d
 Do you want to make Java game and don’t have enough knowledge? Than Jengine-2D is for you. Jengine-2D is simple java 2d engine for all types of games. It is easy to use and lightweight  
