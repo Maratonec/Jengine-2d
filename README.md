@@ -1,4 +1,4 @@
-![Jengine-2D logo] (https://github.com/Maratonec/Jengine-2d/blob/master/images/logo.png)
+![Jengine-2D logo](/images/logo.png)
 # Jengine-2d
 Do you want to make Java game and don’t have enough knowledge? Than Jengine-2D is for you. Jengine-2D is simple java 2d engine for all types of games. It is easy to use and lightweight  
 # Installation
