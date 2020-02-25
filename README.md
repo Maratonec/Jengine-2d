@@ -5,3 +5,4 @@ Do you want to make Java game and don’t have enough knowledge? Than Jengine-2D
 - Open your favourite IDE and create new project
 - Add jengine-2d.jar to your project libraries
 - Enjoy making game
+![Logo Jekyll](http://memofil.github.io/assets/images/categories/jekyll-logo.png)
