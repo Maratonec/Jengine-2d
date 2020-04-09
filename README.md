@@ -11,9 +11,4 @@ Do you want to make Java game and don’t have enough knowledge? Than Jengine-2D
 - Enjoy making game
 
 
-Made by Maratonec 2020
- 
-<script src="https://apis.google.com/js/platform.js">
-</script>
- 
-<div class="g-ytsubscribe" data-channelid="UCqMszcPRPGW1RnIga-SUuDA" data-layout="full" data-count="hidden"></div>
+Maratonec © 2020
